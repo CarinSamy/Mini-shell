@@ -1,0 +1,18 @@
+total 408
+drwxrwxrwx 3 isaac isaac   4096 نوف 13 10:06 .
+drwxrwxr-x 3 isaac isaac   4096 نوف 12 22:03 ..
+-rwxrwxrwx 1 isaac isaac  10362 نوف 13 09:55 command.cc
+-rwxrwxrwx 1 isaac isaac    771 نوف  9 14:39 command.h
+-rw-rw-r-- 1 isaac isaac  66128 نوف 13 09:55 command.o
+drwxrwxrwx 2 isaac isaac   4096 نوف  9 15:18 examples
+-rw-rw-r-- 1 isaac isaac  46404 نوف 12 22:02 lex.yy.c
+-rw-rw-r-- 1 isaac isaac  45416 نوف 12 22:02 lex.yy.o
+-rw-rw-r-- 1 isaac isaac   3300 نوف 12 22:02 log.txt
+-rwxrwxrwx 1 isaac isaac    339 نوف  7 19:18 Makefile
+-rw-rw-r-- 1 isaac isaac      0 نوف 13 10:07 out
+-rwxrwxr-x 1 isaac isaac 100784 نوف 13 10:06 shell
+-rwxrwxrwx 1 isaac isaac    883 نوف 12 22:02 shell.l
+-rwxrwxrwx 1 isaac isaac   2630 نوف 13 10:06 shell.y
+-rw-rw-r-- 1 isaac isaac  46825 نوف 13 10:06 y.tab.c
+-rw-rw-r-- 1 isaac isaac   3467 نوف 13 10:06 y.tab.h
+-rw-rw-r-- 1 isaac isaac  48144 نوف 13 10:06 y.tab.o
